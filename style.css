@@ -5,7 +5,7 @@
     color: #000;
 }
 .accordion-button::after {
-    background-image: <i class="uil uil-angle-down"></i>;
+    background-image: url("https://cdn-icons-png.flaticon.com/512/6939/6939129.png");
 }
 .accordion-button:not(.collapsed){
     color: #000;
@@ -13,7 +13,7 @@
     background-color: #fff;
 }
 .accordion-button:not(.collapsed)::after{
-    background-image: url("https://cdn-user-icons.flaticon.com/55365/55365117/1646774042783.svg?token=exp=1646774944~hmac=b153393cd8040d8d00ab8c7fdba109bd");
+    background-image: url("https://cdn-icons-png.flaticon.com/512/6939/6939129.png");
 }
 .button-heading{
     font-size: 24px;
