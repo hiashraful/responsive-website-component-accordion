@@ -1,0 +1,31 @@
+.accordion-item{
+    border: none;
+}
+.accordion-button{
+    color: #000;
+}
+.accordion-button::after {
+    background-image: url("https://cdn-user-icons.flaticon.com/55365/55365117/1646774042783.svg?token=exp=1646774944~hmac=b153393cd8040d8d00ab8c7fdba109bd");
+}
+.accordion-button:not(.collapsed){
+    color: #000;
+    box-shadow: none;
+    background-color: #fff;
+}
+.accordion-button:not(.collapsed)::after{
+    background-image: url("https://cdn-user-icons.flaticon.com/55365/55365117/1646774042783.svg?token=exp=1646774944~hmac=b153393cd8040d8d00ab8c7fdba109bd");
+}
+.button-heading{
+    font-size: 24px;
+    font-weight: 600;
+}
+.uil{
+    color: #7A73FF;
+}
+.accordion-button:focus {
+    border-color: none;
+    box-shadow: none;
+}
+/* .progress-bar{
+    background-color: #8707ff !important;
+} */
