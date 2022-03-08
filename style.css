@@ -5,7 +5,7 @@
     color: #000;
 }
 .accordion-button::after {
-    background-image: url("https://cdn-icons-png.flaticon.com/512/6939/6939129.png");
+    background-image: url("https://cdn-icons-png.flaticon.com/512/226/226172.png");
 }
 .accordion-button:not(.collapsed){
     color: #000;
@@ -13,7 +13,7 @@
     background-color: #fff;
 }
 .accordion-button:not(.collapsed)::after{
-    background-image: url("https://cdn-icons-png.flaticon.com/512/6939/6939129.png");
+    background-image: url("https://cdn-icons-png.flaticon.com/512/226/226172.png");
 }
 .button-heading{
     font-size: 24px;
